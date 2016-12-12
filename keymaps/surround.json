@@ -1,0 +1,6 @@
+{
+	"atom-workspace": {
+		"alt-s": "surround:surround-outer",
+		"alt-shift-s": "surround:surround-inner"
+	}
+}
